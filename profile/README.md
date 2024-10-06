@@ -32,5 +32,4 @@ We welcome all contributors here, especially those unfamiliar with GitHub. That'
 We encourage members to join our discussions on whatever project they are interested in via the discussion tab (If there is one)!
 
 ### Thank You For Reading!
-Thank you so much for reading, and enjoy this funky Cirno!
 ![Cirno](https://preview.redd.it/jxix02tgx6171.gif?width=411&auto=webp&s=ee01ca084f8f16b3555637019d432d0de7e27a41)
