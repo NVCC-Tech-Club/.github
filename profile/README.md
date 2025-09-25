@@ -1,4 +1,4 @@
-# NVCC/NOVA Tech Club
+# NVCC/NOVA Tech Club  -  OUTDATED ORG
 
 ## About Us
 This is the official GitHub Organization for NVCC's Tech Enthusiast Club.
